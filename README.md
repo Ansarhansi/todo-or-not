@@ -34,9 +34,9 @@ A clean, responsive, and feature-rich task management application built using **
 ---
 
 ## 📸 Screenshots
+![Screenshot 2025-07-03 111448](https://github.com/user-attachments/assets/64b0b443-bfc0-46ad-a59b-e6d131d47074)
+![Screenshot 2025-07-03 111435](https://github.com/user-attachments/assets/f29d0c1a-b3ee-45b0-9a9c-9536b2ea0968)
 
-### 💡 Light Mode
-![Light Mode](https://your-screenshot-light-url)
 
 
 
